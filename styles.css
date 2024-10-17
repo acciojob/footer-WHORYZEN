@@ -29,10 +29,10 @@
     font-weight: 400;
 }
 .media-icons{
-	display: flex;
+	display: flex
 }
 .media-icons a{ 
-    display: inline-block;
+    display: inline;
     height: 40px;
     width: 40px;
     background-color: blue;
@@ -42,21 +42,21 @@
     line-height: 40px;
     border-radius: 50%;
 }
-.media-icons .instagram{
+.instagram{
     background-color: rgb(225, 51, 80);
 }
-.media-icons .twitter{
+.twitter{
     background-color: rgb(36, 159, 207);
 }
-.media-icons .facebook{
+.facebook{
     background-color: rgb(85, 85, 192);
 }
 
-.media-icons .linkedin{
+.linkedin{
     background-color: rgb(14, 129, 174);
 }
 
-.media-icons .youtube{
+.youtube{
     background-color: red;
 }
 
